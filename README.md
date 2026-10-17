@@ -25,4 +25,4 @@ smart-glasses-firmware/
 ```
 
 ## 📜 License
-This firmware code is open-source and licensed under the **GNU General Public License v3 (GPLv3)**. See the `LICENSE` file for full terms.
+This firmware code is open-source and licensed under the **MIT**. See the `LICENSE` file for full terms.
